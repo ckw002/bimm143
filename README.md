@@ -12,7 +12,7 @@ Classwork for [BIMM143 F24](https://bioboot.github.io/bimm143_F24/) at UC San Di
 - Class 13 [RNASeq with DESeq2](https://github.com/ckw002/bimm143/blob/main/class13/class13.pdf)
 - Class 14 [RNA-Seq analysis](https://github.com/ckw002/bimm143/blob/main/class%2014/c14.pdf)
 - Class 15 [Pertussis mini-project](https://github.com/ckw002/bimm143/blob/main/class%2015/class-15.pdf)
-- Class 16
-- Class 17 [](https://github.com/ckw002/bimm143/blob/main/class17/class17.Rproj)
+- Class 16 [Essential UNIX for bioinformatics]()
+- Class 17 [Analyzing sequencing data in the cloud](https://github.com/ckw002/bimm143/blob/main/class17/class17.Rproj)
 - Class 18 [No class, Thanksgiving!]
 - Class 19
