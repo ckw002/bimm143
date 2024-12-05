@@ -2,7 +2,7 @@
 Classwork for [BIMM143 F24](https://bioboot.github.io/bimm143_F24/) at UC San Diego.
 
 - Class 5 [Data exploration and visualization in R](https://github.com/ckw002/bimm143/blob/main/class05/class05.md)
-- Class 6 [Why, when and how of writing your own R functions](https://github.com/ckw002/bimm143/blob/main/class06/class06.pdf)
+- Class 6 [Why, when and how of writing your own R functions](https://github.com/ckw002/bimm143/blob/main/class06/class06.md)
 - Class 7 [Introduction to machine learning for Bioinformatics 1](https://github.com/ckw002/bimm143/blob/main/class07/class07.pdf)
 - Class 8 [PCA Mini Project](https://github.com/ckw002/bimm143/blob/main/class%2008/class08.pdf)
 - Class 9 [Structural Bioinformatics pt.1](https://github.com/ckw002/bimm143/blob/main/class09/class-09.pdf)
