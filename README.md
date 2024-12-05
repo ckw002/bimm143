@@ -15,5 +15,5 @@ Classwork for [BIMM143 F24](https://bioboot.github.io/bimm143_F24/) at UC San Di
 - Class 16 [Essential UNIX for bioinformatics](https://github.com/ckw002/bimm143/blob/main/class16/class16.Rproj)
 - Class 17 [Analyzing sequencing data in the cloud](https://github.com/ckw002/bimm143/blob/main/class17/class17.Rproj)
 - Class 18 No class, Thanksgiving!
-- Class 19 This link!
-- Class 20 This website!
+- Class 19 [Hands-on with Git and GitHub](This link!)
+- Class 20 [Portfolio building and discussion of bioinformatics in industry](This website!)
