@@ -1,7 +1,7 @@
 ---
 title: "Class 6: R Functions"
 author: "Chloe Wong (PID: A16893383)"
-format: pdf
+format: gfm
 ---
 
 Today we are going to expore R functions and begin to think about writing our own functions. 
